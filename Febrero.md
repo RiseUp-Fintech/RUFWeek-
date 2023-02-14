@@ -1,4 +1,7 @@
 # RUFWeek Febrero
+# Manual de Orador
+[Manual de Orador.pdf](https://github.com/RiseUp-Fintech/RUFWeek-/files/10734272/Manual.de.Orador.pdf)
+
 # Invitación
 ![Tarjeta de invitación](https://user-images.githubusercontent.com/116225109/218779312-706c6c1c-fe82-4191-8434-6ab4b31a08ec.png)
 
