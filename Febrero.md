@@ -10,7 +10,7 @@
 ### Cargo: Chief Executive Officer
 ### Tema: Innovación corporativa: apoyando Startups a incursionar.
 ### Fecha: Lunes 20 5 p.m COL / 7 p.m CL
-![Webinar - 1](https://user-images.githubusercontent.com/101415041/219103082-32a0f21d-628a-4976-b702-8400849b231a.png)
+![Webinar - 1](https://user-images.githubusercontent.com/101415041/219103757-98347aca-b9f7-40af-9b37-1b3523a61b3b.png)
 
 
 ## Paola Rojas | Afterbanks - Arcopay
