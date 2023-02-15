@@ -19,4 +19,4 @@
 ### Empresa: Afterbanks - Arcopay
 ### Tema: Revolucionando con OpenBanking
 ### Fecha: Martes 21 | 1 p.m COL / 7p.m Mad.
-![21 de febrero](https://user-images.githubusercontent.com/116225109/218786328-2835fee9-a72d-456c-83f7-e6c31f6fe54f.png)
+![21 de febrero](https://user-images.githubusercontent.com/101415041/219092331-73eec752-a2c3-4fbf-be26-4811cfe67b82.png)
