@@ -10,7 +10,8 @@
 ### Cargo: Chief Executive Officer
 ### Tema: Innovación corporativa: apoyando Startups a incursionar.
 ### Fecha: Lunes 20 5 p.m COL / 7 p.m CL
-![Webinar - 1](https://user-images.githubusercontent.com/101415041/219101408-adb00c48-4618-4256-870b-89ccf225b2fb.png)
+![Webinar - 1](https://user-images.githubusercontent.com/101415041/219103082-32a0f21d-628a-4976-b702-8400849b231a.png)
+
 
 ## Paola Rojas | Afterbanks - Arcopay
 ### Cargo: Desarrollo de negocio y responsable de medios de comunicación
@@ -24,7 +25,8 @@
 ### CEO & Co-Founder 
 ### Tema: La evolución de Fintech a Proptech
 ### Fecha: Miércoles 22 5 p.m COL
-![Webinar - 3](https://user-images.githubusercontent.com/101415041/219101981-a9ac321a-ea78-459a-8689-306485b27e4f.png)
+![Webinar - 3](https://user-images.githubusercontent.com/101415041/219103145-df1da23f-fc50-4543-8c1f-2efd17675b68.png)
+
 
 # Post Empresas
 
