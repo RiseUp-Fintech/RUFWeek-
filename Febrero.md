@@ -29,6 +29,11 @@
 
 
 # Post Empresas
+## Kurt Vega | TreeStudio 
+### Cargo: Chief Executive Officer
+### Tema: Innovación corporativa: apoyando Startups a incursionar.
+### Fecha: Lunes 20 5 p.m COL / 7 p.m CL
+![20 de febrero](https://user-images.githubusercontent.com/101415041/219104802-51585e97-546f-43ff-941a-744eb4c1b89d.png)
 
 ## Paola Rojas | Afterbanks - Arcopay
 ### Cargo: Desarrollo de negocio y responsable de medios de comunicación
@@ -36,7 +41,13 @@
 ### Fecha: Martes 21 | 1 p.m COL / 7p.m Mad.
 ![21 de febrero](https://user-images.githubusercontent.com/101415041/219092331-73eec752-a2c3-4fbf-be26-4811cfe67b82.png)
 
-
+## Enrique Echavarria | DataLab
+### Cargo: Gerente
+## Juliana Camacho | Latam Proptech HUB
+### CEO & Co-Founder 
+### Tema: La evolución de Fintech a Proptech
+### Fecha: Miércoles 22 5 p.m COL
+![22 de febrero](https://user-images.githubusercontent.com/101415041/219104871-049c7665-1eba-4cfa-8940-12b06c8affd3.png)
 
 
 
