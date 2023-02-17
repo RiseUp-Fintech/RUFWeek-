@@ -27,6 +27,12 @@
 ### Fecha: Miércoles 22 5 p.m COL
 ![Webinar - 3](https://user-images.githubusercontent.com/101415041/219103145-df1da23f-fc50-4543-8c1f-2efd17675b68.png)
 
+## Giovanni Ariza | GioSyst3m
+### Cargo: Agile Coach
+### Tema:Cómo la innovación es el corazón de las Fintech
+### Fecha: Jueves 23 5 p.m COL
+![Webinar - 5](https://user-images.githubusercontent.com/101415041/219688633-ce01a6a7-30ad-42bd-8afb-b6f704f861de.png)
+
 
 # Post Empresas
 ## Kurt Vega | TreeStudio 
@@ -49,5 +55,10 @@
 ### Fecha: Miércoles 22 5 p.m COL
 ![22 de febrero](https://user-images.githubusercontent.com/101415041/219104871-049c7665-1eba-4cfa-8940-12b06c8affd3.png)
 
+## Giovanni Ariza | GioSyst3m
+### Cargo: Agile Coach
+### Tema:Cómo la innovación es el corazón de las Fintech
+### Fecha: Jueves 23 5 p.m COL
+![23 de febrero](https://user-images.githubusercontent.com/101415041/219688678-3fc319e2-9ed8-4588-ae2e-5fcd4b77f6ec.png)
 
 
