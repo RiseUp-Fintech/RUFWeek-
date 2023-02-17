@@ -3,9 +3,10 @@
 [Manual de Orador.pdf](https://github.com/RiseUp-Fintech/RUFWeek-/files/10734285/Manual.de.Orador.pdf)
 
 # Invitación
-![Tarjeta de invitación](https://user-images.githubusercontent.com/116225109/218779312-706c6c1c-fe82-4191-8434-6ab4b31a08ec.png)
+![Tarjeta de invitación1](https://user-images.githubusercontent.com/101415041/219711669-e4c64007-02c4-4d4b-a73f-fbd633404160.png)
 
 # Webinar Thumbnails
+
 ## Kurt Vega | TreeStudio 
 ### Cargo: Chief Executive Officer
 ### Tema: Innovación corporativa: apoyando Startups a incursionar.
