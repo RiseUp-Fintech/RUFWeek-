@@ -13,11 +13,13 @@
 ### Fecha: Lunes 20 5 p.m COL / 7 p.m CL
 ![Webinar - 1](https://user-images.githubusercontent.com/101415041/219103757-98347aca-b9f7-40af-9b37-1b3523a61b3b.png)
 
+
 ## Paola Rojas | Afterbanks - Arcopay
 ### Cargo: Desarrollo de negocio y responsable de medios de comunicación
 ### Tema: Revolucionando con OpenBanking
 ### Fecha: Martes 21 | 1 p.m COL / 7p.m Mad.
 ![Webinar - 2](https://user-images.githubusercontent.com/116225109/218786283-5f041576-73f5-4b42-bd5d-a4a1c0f96134.png)
+## Presentación
 
 ## Enrique Echavarria | DataLab
 ### Cargo: Gerente
@@ -26,12 +28,16 @@
 ### Tema: La evolución de Fintech a Proptech
 ### Fecha: Miércoles 22 5 p.m COL
 ![Webinar - 3](https://user-images.githubusercontent.com/101415041/219103145-df1da23f-fc50-4543-8c1f-2efd17675b68.png)
+## Presentación
+[LPH Proptech.pptx.pdf](https://github.com/RiseUp-Fintech/RUFWeek-/files/10809029/LPH.Proptech.pptx.pdf)
 
 ## Giovanni Ariza | GioSyst3m
 ### Cargo: Agile Coach
 ### Tema:Cómo la innovación es el corazón de las Fintech
 ### Fecha: Jueves 23 5 p.m COL
 ![Webinar - 5](https://user-images.githubusercontent.com/101415041/219688633-ce01a6a7-30ad-42bd-8afb-b6f704f861de.png)
+## Presentación
+[Innovacion - Fintech.pdf](https://github.com/RiseUp-Fintech/RUFWeek-/files/10809030/Innovacion.-.Fintech.pdf)
 
 # Post Empresas
 ## Kurt Vega | TreeStudio 
