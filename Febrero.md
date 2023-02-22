@@ -13,7 +13,6 @@
 ### Fecha: Lunes 20 5 p.m COL / 7 p.m CL
 ![Webinar - 1](https://user-images.githubusercontent.com/101415041/219103757-98347aca-b9f7-40af-9b37-1b3523a61b3b.png)
 
-
 ## Paola Rojas | Afterbanks - Arcopay
 ### Cargo: Desarrollo de negocio y responsable de medios de comunicación
 ### Tema: Revolucionando con OpenBanking
@@ -34,7 +33,6 @@
 ### Fecha: Jueves 23 5 p.m COL
 ![Webinar - 5](https://user-images.githubusercontent.com/101415041/219688633-ce01a6a7-30ad-42bd-8afb-b6f704f861de.png)
 
-
 # Post Empresas
 ## Kurt Vega | TreeStudio 
 ### Cargo: Chief Executive Officer
@@ -54,7 +52,7 @@
 ### CEO & Co-Founder 
 ### Tema: La evolución de Fintech a Proptech
 ### Fecha: Miércoles 22 5 p.m COL
-![22 de febrero](https://user-images.githubusercontent.com/101415041/219104871-049c7665-1eba-4cfa-8940-12b06c8affd3.png)
+![22 de febrero](https://user-images.githubusercontent.com/101415041/220766115-7ebf01fe-f71e-42bd-b738-1c0bcfa54085.png)
 
 ## Giovanni Ariza | GioSyst3m
 ### Cargo: Agile Coach
