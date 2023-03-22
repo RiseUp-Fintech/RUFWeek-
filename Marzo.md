@@ -36,4 +36,16 @@
 ### Fecha: Viernes 31 de Marzo de 2023, 5 p.m. COL | 7 p.m. CL
 ![Webinar - 5](https://user-images.githubusercontent.com/101415041/226787684-a3756481-ef69-43f7-8974-85de1399f6ef.png)
 
+# Post Empresas
+## Daniela Vélez | Exponencial Confirming
+![2](https://user-images.githubusercontent.com/101415041/226787937-0e79c918-fcce-4595-964a-03f363269df4.png)
 
+## María del Pilar Mejía | Juanchotepresta
+![3](https://user-images.githubusercontent.com/101415041/226787972-ffd47f54-47cd-4dbc-ad22-54fd6d6b1c50.png)
+
+## Raphael Wander | Thetaray
+## Jorge Leandro Pazos | Thetaray
+![4](https://user-images.githubusercontent.com/101415041/226787985-db737be4-f74b-41fb-bb4e-11b8aef0863f.png)
+
+## Andrés Méndez | Wigilabs
+![5](https://user-images.githubusercontent.com/101415041/226788000-05fd2c04-be94-40ab-b7c3-fa69e0bf445b.png)
