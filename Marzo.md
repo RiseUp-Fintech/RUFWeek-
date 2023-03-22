@@ -1,7 +1,7 @@
 # RUFWeek Marzo
 
 # Manual de Orador
-## Descarga el manual de orador\
+## Descarga el manual de orador y recuerda seguir los pasos que te mostramos, publicar los post que te recomendamos y ayudar a dar exposición a tu tema para que así puedas ganarte una sorpresa 🚀 
 [Manual de Orador.pdf](https://github.com/RiseUp-Fintech/RUFWeek-/files/11035644/Manual.de.Orador.pdf)
 
 # Invitación
